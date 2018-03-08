@@ -1,0 +1,23 @@
+{
+  "name": "action-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --config jest.config.json"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "eslint": "^4.18.2",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "jest": "^22.4.2"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "testier": "^1.0.0-alpha4"
+  }
+}

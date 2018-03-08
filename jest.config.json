@@ -1,0 +1,15 @@
+{	
+	"cacheDirectory": "./jest-cache",
+	"clearMocks": true,
+	"testMatch": ["**/*.spec.js"],	
+
+	"modulePaths": [
+		"src/",
+		"tests/"
+	],
+	"moduleDirectories": [
+		"node_modules",		
+		"src/",
+		"tests/"
+	]
+}

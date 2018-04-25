@@ -5,7 +5,7 @@ module.exports = {
 	overrides: [
 		{
 			files: [				
-				'**/tests/**',				
+				'**/__tests__/**',
 			],
 			env: {
 				node: true,

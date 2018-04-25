@@ -1,4 +1,4 @@
-import createActionBuilder from '../src/createActionBuilder';
+import createActionBuilder from '../createActionBuilder';
 
 describe('createActionBuilder', () => {
   describe('only type', () => {

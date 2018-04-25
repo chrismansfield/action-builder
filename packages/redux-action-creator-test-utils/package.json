@@ -1,0 +1,9 @@
+{
+  "name": "redux-action-creator-test-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "testier": ">=1.0.0-alpha4"
+  }
+}
